@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1vUsTr-CtTG30Q5Z2EueRy56bFfbL1TLh" width="180" />
-</p>
-
-<p align="center">
   <h1>ANALISIS HUBUNGAN ANTARA DISTRIBUSI LISTRIK DI KABUPATEN/KOTA<br>
   DENGAN PDRB PER KAPITA DI PROVINSI SUMATERA SELATAN TAHUN 2024<br>
   MELALUI VISUALISASI</h1>
@@ -16,7 +12,9 @@ Efi Defiyati (123450005)<br>
 Aliya Ammara Ananta (123450075)<br>
 Muhammad Naufal Al Ghani (123450116)</p>
 
----
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1vUsTr-CtTG30Q5Z2EueRy56bFfbL1TLh" width="180" />
+</p>
 
 <p align="center"><strong>PROGRAM STUDI SAINS DATA</strong><br>
 <strong>FAKULTAS SAINS</strong><br>
